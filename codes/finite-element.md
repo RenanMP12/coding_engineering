@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Finite Element Method 222"
+title: "Finite Element Method"
 ---
 
 #### Collocation Technique
 
-[Two points](/codes/two_point_collocation.md)
+[Two points](/two_point_collocation.md)
 
-[Three points](/codes/three_point_collocation.md)
+[Three points](/three_point_collocation.md)
 
 #### Garlekin Technique
 
