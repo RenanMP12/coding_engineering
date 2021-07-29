@@ -1,4 +1,4 @@
 ---
 layout: codes
-title: "Codes"
+title: ""
 ---
