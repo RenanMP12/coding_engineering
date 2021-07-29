@@ -5,6 +5,8 @@ title: "Finite Element Method"
 
 #### Collocation Technique
 
+[Two points](/codes/finite_element/two_point_collocation.md)
+
 #### Garlekin Technique
 
 #### Rayleigh-Ritz Technique
