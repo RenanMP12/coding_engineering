@@ -6,6 +6,7 @@ title: "Finite Element Method"
 #### Collocation Technique
 
 [Two points](/codes/finite_element/two_point_collocation.md)
+[Three points](/codes/finite_element/three_point_collocation.md)
 
 #### Garlekin Technique
 
