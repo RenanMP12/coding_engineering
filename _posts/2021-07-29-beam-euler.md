@@ -73,3 +73,18 @@ bc = np.array([[1, 1, 0],
                [1, 2, 0],
                [nnos, 1, 0]])
 ```
+Now we know which rows and columns shall be removed from the equation system [Kg]{u} = {fg}, we can define the variables *mask* and *maskv* pre-allocated in the third step. The matrix *mask* is the same size of the matrix [Kg] and the vector *maskv* is the same length from the vector {fg}. First we define mask as 
+```python
+
+for i in range(0, np.size(bc, 0)):
+    if bc[i, 1] == 1:
+        mask[2*bc[i, 0] - 2, 2*bc[i, 0] - 2] = 1
+    elif bc[i, 1] == 2:
+        mask[2*bc[i, 0] - 1, 2*bc[i, 0] - 1] = 1
+mask = ma.masked_equal(mask, 1)
+mask = ma.mask_rowcols(mask)
+mask = (mask == False)
+
+```
+
+If we type **mask.data** the output should be the same presented in the Figure below. The first, second and ninth rows and columns are defined as *False*. 
