@@ -3,6 +3,18 @@ layout: page
 title: "Finite Element Method"
 ---
 
+#### Collocation Technique
+
+#### Garlekin Technique
+
+#### Rayleigh-Ritz Technique
+
+#### Bar element
+
+#### Truss element
+
+#### Beam element
+
 #### Course Information
 
 [Course Outline](/courses/vector-calculus/Sample_Course_Outline.pdf)
