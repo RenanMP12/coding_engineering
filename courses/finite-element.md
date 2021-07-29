@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Finite Element"
+title: "Finite Element Method"
 ---
 
 #### Course Information
