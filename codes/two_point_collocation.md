@@ -7,7 +7,7 @@ categories: media
 
 1. Equation 1
 
-$$x + y = 2$$
+
 
 2. Equation 2
 
