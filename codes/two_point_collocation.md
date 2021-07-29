@@ -3,4 +3,12 @@ layout: page
 title: "Collocation Technique with two points"
 ---
 
-`$$a^2 + b^2 = c^2$$`
+1. Equation 1
+
+$$x + y = 2$$
+
+2. Equation 2
+
+3. Equation 3
+
+4. Equation 4
