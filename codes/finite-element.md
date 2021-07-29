@@ -5,7 +5,7 @@ title: "Finite Element Method"
 
 #### Collocation Technique
 
-{name: 'Two points', url: 'two_point_collocation'}
+[Two points](/codes/two_point_collocation.md)
 
 [Three points](/codes/three_point_collocation.md)
 
