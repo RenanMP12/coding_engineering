@@ -5,7 +5,7 @@ title: "Finite Element Method"
 
 #### Collocation Technique
 
-[Example](/two_point_collocation.md)
+[Example](two_point_collocation.md)
 
 [Two points](/codes/two_point_collocation.md)
 
