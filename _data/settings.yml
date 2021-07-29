@@ -17,9 +17,9 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/renan-miranda-portela-215b7940?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXiZrQtawR%2F6VB2ioVnc60Q%3D%3D'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
