@@ -1,11 +1,9 @@
-- title: 'Comparação de modelos de placa para a simulação de laminados compósitos'
-  description: 'Renan Miranda Portela'
-  link: {name: 'Link', url: 'http://www.repositorio.unicamp.br/handle/REPOSIP/357701'}
+#- title: 'Comparação de modelos de placa para a simulação de laminados compósitos'
+#  description: 'Renan Miranda Portela'
+#  link: {name: 'Link', url: 'http://www.repositorio.unicamp.br/handle/REPOSIP/357701'}
 
-#featured:
-#- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-#- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-#- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+featured:
+- {name: 'Comparação de modelos de placa para a simulação de laminados compósitos. Renan Miranda Portela', url: 'http://www.repositorio.unicamp.br/handle/REPOSIP/357701'}
 
 #index:
 #- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
