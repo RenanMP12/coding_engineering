@@ -1,11 +1,15 @@
 - title: 'B.Sc. Mechanical Engineering'
+  subtitle: ''
   description: 'Universidade Federal da Bahia (2010-2017)'
 
 - title: 'M.Sc. Mechanical Engineering'
+  subtitle: 'Emphasis in Solid Mechanics and Mechanical Design'
   description: 'Universidade Estadual de Campinas (2018-2020)'
 
 - title: 'Ph.D. Mechanical Engineering'
+  subtitle: 'Emphasis in Aeronautical Design, Structures and Aerospace Systems'
   description: 'Instituto Tecnológico de Aeronáutica (2021-Present)'
 
 - title: 'Ph.D. Mechanical Engineering'
+  subtitle: ''
   description: 'The University of Waterloo (2021-Present)'
