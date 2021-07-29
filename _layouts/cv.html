@@ -14,6 +14,7 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.cv.education %}
           <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.subtitle }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
