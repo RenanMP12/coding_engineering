@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Finite Element Method"
+title: "Collocation Technique with two points"
 ---
 
-# Collocation Technique with two points
