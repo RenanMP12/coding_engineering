@@ -6,7 +6,7 @@ title: "Finite Element Method"
 #### Collocation Technique
 
 
-[Example](AE_245___Lista_3.pdf)
+[Example](/codes/AE_245___Lista_3.pdf)
 
 Atualização
 
