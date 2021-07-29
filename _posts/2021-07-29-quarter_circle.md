@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 
 Next we define the number of nodes to approximate the circular section and the coordinate matrix, where we store the number of each node and its position in the Cartesian coordinates. In this matrix the first node will be always at the origin, while the others will be equally distributed on the perimeter of the quarter circle. This code can be written as
 
-{% highlight ruby %}
+```python
 
 nnos = 11                  # number of nodes
 nel  = nnos - 2            # number of elements
@@ -41,7 +41,7 @@ plt.scatter(coord[:,1], coord[:,2], marker = '+', c = 'black')
 plt.xlabel('x', fontsize = 'xx-large')
 plt.ylabel('y', fontsize = 'xx-large')
 
-{% endhighlight %}
+```
 
 <img src="{{ site.github.url }}/assets/img/scatter.png" alt="scatter" width="50%">
 
