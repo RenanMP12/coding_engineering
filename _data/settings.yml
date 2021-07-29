@@ -13,7 +13,7 @@ menu:
 codes:
 - {name: 'Finite Element Method', url: 'finite-element'}
 - {name: 'Optimization Methods', url: 'optimization-methods'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+#- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
