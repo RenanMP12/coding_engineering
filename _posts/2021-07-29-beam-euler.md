@@ -88,3 +88,18 @@ mask = (mask == False)
 ```
 
 If we type **mask.data** the output should be the same presented in the Figure below. The first, second and ninth rows and columns are defined as *False*. 
+
+
+Similarly we defined the variable *maskv* as
+```python
+for i in range(0, np.size(bc, 0)):
+   if bc[i, 1] == 1:
+      mask[2*bc[i, 0] - 2] = 1
+   elif bc[i, 1] == 2:
+      mask[2*bc[i, 0] - 1] = 1
+maskv = ma.masked_equal(maskv, 1)
+maskv = (maskv == False)
+
+```
+
+Likewise the variable *mask*, *maskv.data* should also present rows 1,2 and 9 as **False**.
