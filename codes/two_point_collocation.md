@@ -1,6 +1,8 @@
 ---
-layout: page
 title: "Collocation Technique with two points"
+layout: post
+mathjax: true
+categories: media
 ---
 
 1. Equation 1
