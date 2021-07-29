@@ -3,7 +3,7 @@
 #  link: {name: 'Link', url: 'http://www.repositorio.unicamp.br/handle/REPOSIP/357701'}
 
 featured:
-- {name: '<b>Master thesis:</b> Comparação de modelos de placa para a simulação de laminados compósitos.', url: 'http://www.repositorio.unicamp.br/handle/REPOSIP/357701'}
+- {name: '<b>Master thesis:</b> Comparison of plate models for a simulation of composite laminates.', url: 'http://www.repositorio.unicamp.br/handle/REPOSIP/357701'}
 
 #index:
 #- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
