@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Quantum Mechanics"
+title: "Optimization Methods"
 ---
 
 #### Course Information
