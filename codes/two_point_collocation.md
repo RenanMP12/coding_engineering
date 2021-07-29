@@ -2,7 +2,10 @@
 title: "Collocation Technique with two points"
 layout: post
 mathjax: true
-categories: media
+categories:
+  - python
+  - programming
+  - collocation method
 ---
 
 1. Equation 1
