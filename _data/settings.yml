@@ -1,6 +1,6 @@
 menu:
 #- {name: 'people', url: '/people'}
-- {name: 'explaining codes', url: '/blog'}
+- {name: 'step-by-step', url: '/blog'}
 - {name: 'codes', url: '/codes'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
