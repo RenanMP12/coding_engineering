@@ -4,7 +4,7 @@
 
 featured:
 - {name: '<b>Master thesis:</b> Comparison of plate models for a simulation of composite laminates.', url: 'http://www.repositorio.unicamp.br/handle/REPOSIP/357701'}
-- {name: 'Test', url: 'https://github.com/RenanMP12/python-codes/blob/main/Circular%20geometry.py'}
+- {name: 'Teste', url: 'https://github.com/RenanMP12/python-codes/blob/main/Circular%20geometry.py'}
 
 #index:
 #- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
