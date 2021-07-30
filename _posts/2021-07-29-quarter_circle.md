@@ -9,7 +9,7 @@ This is an example of how to compute some properties of a circular section like 
 
 # First step
 The first step when programming with Python is always import the libraries we will use. In this example two libraries are required
-```python hl_lines="1 3"
+```python 
 # Libraries
 import numpy as np
 import matplotlib.pyplot as plt
