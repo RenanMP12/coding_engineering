@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Finite Element Method"
+title: "Quarter circle properties"
 ---
 
 ```python
