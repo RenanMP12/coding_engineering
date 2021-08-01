@@ -17,6 +17,13 @@ codes:
 
 #- {name: 'Stellar Structures', url: 'stellar-structures'}
 
+finite_element:
+- {name: 'Quarter circle', url: 'https://github.com/RenanMP12/python-codes/blob/main/Circular%20geometry.py'}
+
+optimization:
+- {name: 'Newton-Raphson', url: ''}
+- {name: 'Quasi-Newton', url: ''}
+
 
 social:
 - {icon: 'github', link: 'https://github.com/RenanMP12'}
