@@ -9,8 +9,12 @@ layout: default
     <h2 class="fw-bold border-bottom pb-3 mb-5">Codes</h3>
       <div>
         <h3 class="fw-bold border-bottom pb-3 mb-5">Finite Element Method Codes</h3>
-        {% for code in site.data.settings.finite_element %}
-          <p><a href="{{ site.github.url }}/codes/{{ code.url}}">{{ code.name }}</a></p>
+        {% for item in site.data.settings.finite_element %}
+          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        {% endfor %}
+        <h3 class="fw-bold border-bottom pb-3 mb-5">Optimization Methods Codes</h3>
+        {% for item in site.data.settings.optimization %}
+          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
         {% endfor %}
   </div>
 </div>
