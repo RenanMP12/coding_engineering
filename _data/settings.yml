@@ -13,6 +13,8 @@ menu:
 codes:
 - {name: 'Computing the properties of a quarter circle', url: 'quarter-circle'}
 - {name: 'Optimization Methods', url: 'optimization-methods'}
+- {name: 'Quarter circle', url: 'https://github.com/RenanMP12/python-codes/blob/main/Circular%20geometry.py'}
+
 #- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 
