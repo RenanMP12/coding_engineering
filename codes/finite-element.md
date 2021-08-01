@@ -149,13 +149,14 @@ for i in range(0,nel):
     x3 = coord[int(inci[i,2] - 1), 1]
     y3 = coord[int(inci[i,2] - 1), 2]   
     
-    Ix += 1/12*(y1**2+y2**2+y3**2+y1*y2+y1*y3+y2*y3)*(x2*y3-x3*y2) # momento de inércia em relação ao eixo x
-    Iy += 1/12*(x1**2+x1*x2+x1*x3+x2**2+x2*x3+x3**2)*(x2*y3-x3*y2) # momento de inércia em relação ao eixo x
+    Ix += 1/12*(y1**2+y2**2+y3**2+y1*y2+y1*y3+y2*y3)*(x2*y3-x3*y2) # moment of inertia in X-axis
+    Iy += 1/12*(x1**2+x1*x2+x1*x3+x2**2+x2*x3+x3**2)*(x2*y3-x3*y2) # moment of inertia in Y-axis
     
-Iexato = np.pi/16 # valor exato do momento de inércia do quarto de círculo para R = 1
+Iexato = np.pi/16 # exact value for R = 1
 
 erro_Ix = (Iexato-Ix)/Iexato*100
 erro_Iy = (Iexato-Iy)/Iexato*100
-```
+
 print('Error inertia X = ', erro_Ix,'%')
 print('Error inertia Y = ', erro_Iy,'%')
+```
