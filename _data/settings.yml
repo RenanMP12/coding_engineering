@@ -13,11 +13,8 @@ menu:
 codes:
 - {name: 'Computing the properties of a quarter circle', url: 'quarter-circle'}
 - {name: 'Optimization Methods', url: 'optimization-methods'}
-- {name: 'Finite Element Method', url: 'finite_element'}
 #- {name: 'Stellar Structures', url: 'stellar-structures'}
 
-Finite Element Method Codes:
-- {name: 'Computing the properties of a quarter circle', url: 'quarter-circle'}
 
 social:
 - {icon: 'github', link: 'https://github.com/RenanMP12'}
