@@ -19,10 +19,11 @@ codes:
 
 finite_element:
 - {name: 'Quarter circle geometric properties', url: 'https://github.com/RenanMP12/python-codes/blob/main/Circular%20geometry.py'}
+- {name: 'Collocation Method', url: 'https://github.com/RenanMP12/python-codes/blob/main/collocation_method.py'}
 
 optimization:
-- {name: 'Newton-Raphson', url: ''}
-- {name: 'Quasi-Newton', url: ''}
+#- {name: 'Newton-Raphson', url: ''}
+#- {name: 'Quasi-Newton', url: ''}
 
 
 social:
