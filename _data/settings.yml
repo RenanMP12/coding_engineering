@@ -34,7 +34,7 @@ optimization:
 social:
 - {icon: 'github', link: 'https://github.com/RenanMP12'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/renan-miranda-portela-215b7940?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXiZrQtawR%2F6VB2ioVnc60Q%3D%3D'}
-#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'paypal', link: ''}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 
 contacts:
