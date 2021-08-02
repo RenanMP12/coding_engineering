@@ -21,9 +21,10 @@ finite_element:
 - {name: 'Quarter circle geometric properties', url: 'https://github.com/RenanMP12/python-codes/blob/main/Circular%20geometry.py'}
 - {name: 'Collocation Method', url: 'https://github.com/RenanMP12/python-codes/blob/main/collocation_method.py'}
 - {name: 'Galerkin Method', url: 'https://github.com/RenanMP12/python-codes/blob/main/galerkin_method.py'}
-- {name: '2D Truss', url: 'https://github.com/RenanMP12/python-codes/blob/main/Truss_2D.py'}
 - {name: '2D Euler-Bernoulli Beam under Quadratic Load', url: 'https://github.com/RenanMP12/python-codes/blob/main/2D%20Euler%20Beam%20Quadratic%20Load.py'}
 - {name: 'Critical Load on Column', url: 'https://github.com/RenanMP12/python-codes/blob/main/euler_critical_load.py'}
+- {name: 'Modes of vibration of a beam', url: 'https://github.com/RenanMP12/python-codes/blob/main/modes_vibration_beam.py'}
+- {name: '2D Truss', url: 'https://github.com/RenanMP12/python-codes/blob/main/Truss_2D.py'}
 
 optimization:
 #- {name: 'Newton-Raphson', url: ''}
