@@ -36,7 +36,7 @@ social:
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/renan-miranda-portela-215b7940?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXiZrQtawR%2F6VB2ioVnc60Q%3D%3D'}
-- {icon: 'https://img.shields.io/badge/Donate-PayPal-green.svg', link: ''}
+- {icon: 'https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif', link: ''}
 #[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_EMAIL_CODE)
 
 contacts:
