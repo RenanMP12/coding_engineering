@@ -22,6 +22,7 @@ finite_element:
 - {name: 'Collocation Method', url: 'https://github.com/RenanMP12/python-codes/blob/main/collocation_method.py'}
 - {name: 'Galerkin Method', url: 'https://github.com/RenanMP12/python-codes/blob/main/galerkin_method.py'}
 - {name: '2D Truss', url: 'https://github.com/RenanMP12/python-codes/blob/main/Truss_2D.py'}
+- {name: '2D Euler-Bernoulli Beam under Quadratic Load', url: 'https://github.com/RenanMP12/python-codes/blob/main/2D%20Euler%20Beam%20Quadratic%20Load.py'}
 
 optimization:
 #- {name: 'Newton-Raphson', url: ''}
