@@ -25,6 +25,7 @@ finite_element:
 - {name: 'Critical Load on Column', url: 'https://github.com/RenanMP12/python-codes/blob/main/euler_critical_load.py'}
 - {name: 'Modes of vibration of a beam', url: 'https://github.com/RenanMP12/python-codes/blob/main/modes_vibration_beam.py'}
 - {name: '2D Truss', url: 'https://github.com/RenanMP12/python-codes/blob/main/Truss_2D.py'}
+- {name: 'Pluviometer', url: 'https://github.com/RenanMP12/python-codes/blob/main/pluviometer.py'}
 
 optimization:
 #- {name: 'Newton-Raphson', url: ''}
